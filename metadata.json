@@ -1,0 +1,7 @@
+{
+  "name": "Bharat Multi-Bagger Scanner",
+  "description": "An advanced stock scanning and ranking platform for Indian NSE/BSE markets using fundamental, technical, and AI-driven factor models to identify high-growth opportunities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
